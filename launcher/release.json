@@ -4,7 +4,7 @@
     "assets": [
       {
         "name": "sample-game-win-exe",
-        "url": "https://github.com/kazanefu/zip_sample_game/releases/download/v0.1.0/sample.zip",
+        "url": "https://github.com/kazanefu/exe_sample_game/releases/download/v0.1.0/exe_sample_game.exe",
         "type": "exe",
         "sha256": "<hex-sha256>",
         "entry_point": "exe_sample_game.exe"
