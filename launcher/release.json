@@ -6,7 +6,7 @@
         "name": "sample-game-win-exe",
         "url": "https://github.com/kazanefu/exe_sample_game/releases/download/v0.1.0/exe_sample_game.exe",
         "type": "exe",
-        "sha256": "<hex-sha256>",
+        "sha256": "sha256:5fa32bf19c78fa2bc0685983d1b16b02fde0f6bdea030833fe2c1fa621d502cd",
         "entry_point": "exe_sample_game.exe"
       }
     ],
